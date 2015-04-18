@@ -1,1 +1,1 @@
-this program is about computing the PI with a montocarlo way the famous experiment BUTTON needle ,we have three class 
+this program is about computing the PI with a montocarlo way the famous experiment BUTTON needle ,we have three class one is for compute the probility model another is  for producting new object that is use for simulate ,the last one is for manage the whole simulate how to prodect object how to statistics with them
